@@ -31,6 +31,9 @@ The Online Reservation System is a Java-based desktop application that allows us
 - MySQL database connectivity
 - Input validation
 
+### Cancellation Successful
+![Cancellation Successful](screenshots/cancellation-success.jpg)
+Internship
 ## Database Tables
 
 - `users`
