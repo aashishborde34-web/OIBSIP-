@@ -60,22 +60,12 @@ Create the required tables.
 Update the MySQL username and password in DBConnection.java.
 Open the project in IntelliJ IDEA.
 Run LoginForm.java.
+
+
 Login using the provided credentials.
 
-
-
-## Database Tables
-
-- `users`
-- `trains`
-- `reservations`
-
-## Login Credentials
-
-```text
 Username: admin
 Password: admin123
-
 
 OnlineReservationSystem/
 ├── pom.xml
@@ -90,6 +80,14 @@ OnlineReservationSystem/
                     ├── ReservationForm.java
                     └── CancellationForm.java
 
+
+## Database Tables
+
+- `users`
+- `trains`
+- `reservations`
+
 This project is completed as part of the Oasis Infobyte Java Development Internship.
 
 #oasisinfobyte
+
